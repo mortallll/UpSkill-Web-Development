@@ -243,7 +243,7 @@ websites:
 
 --------------
 
-#Day 3 - June 22  2021
+#Day 3 - June 23  2021
 
 HTML
 
@@ -264,4 +264,16 @@ make college routine using html table
 
 
 
+
+------
+
+#Day 4 - June 24  2021
+
+HTML Day 2
+
+-----------
+
+https://fonts.google.com/specimen/Roboto+Mono?vfonly=true#standard-styles
+
+https://fontawesome.com/
 
