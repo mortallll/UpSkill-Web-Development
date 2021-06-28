@@ -277,3 +277,159 @@ https://fonts.google.com/specimen/Roboto+Mono?vfonly=true#standard-styles
 
 https://fontawesome.com/
 
+
+
+file:///C:/Program%20Files/Git/mingw64/share/doc/git-doc/git-push.html 
+
+
+
+------------------------------------
+
+#CSS
+
+------------
+
+CSS for  *A table with borders applied only to the top and bottom of the table body.*
+
+```css
+table {
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+  margin: 0 0 1em 0;
+  caption-side: top;
+}
+
+caption, td, th {
+  padding: 0.3em;
+}
+
+tbody {
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
+
+tbody th, tfoot th {
+  border: 0;
+}
+
+th.name {
+  width: 25%;
+}
+
+th.location {
+  width: 20%;
+}
+
+th.lasteruption {
+  width: 30%;
+}
+
+th.eruptiontype {
+  width: 25%;
+}
+
+tfoot {
+  text-align: center;
+  color: #555;
+  font-size: 0.8em;
+}
+```
+
+
+
+#my CSS for table
+
+```css
+
+ table,th,td{
+    border: 1px solid black;
+    /* shorthead forborder attriutes */
+    border-collapse: collapse;
+    /* for displaying border in a single line  */
+}
+ 
+th,td{
+    padding-left: 15px;
+    padding-top: 8px;
+    padding-right: 100px;
+    padding-bottom: 8px;
+    text-align: center;
+}
+
+
+h2{
+text-align: center;
+color: blue;
+}
+
+h4{
+color: magenta;
+}
+
+p{
+color: green;
+}
+/* 
+table{
+text-align: left;
+} */
+
+td{
+text-align: left;
+text-align: justify;
+height: 10px;
+width: 350px;
+color: maroon;
+}
+
+th{
+text-align: left;
+text-align: justify;
+height: 10px;
+width: 200px;
+
+}
+```
+
+
+
+#My another try
+
+```css
+
+h3{
+    color: blue;
+}
+
+h4{
+    color: magenta;
+}
+
+p{
+    color: green;
+}
+
+table{
+    
+    text-align: left;
+}
+
+td{
+    height: 10px;
+    width: 400px;
+    color: maroon;
+}
+
+th{
+    height: 10px;
+    width: 200px;
+    
+}
+
+```
+
+
+
+​																							
+
