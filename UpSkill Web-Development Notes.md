@@ -565,3 +565,30 @@ Microsoft 30 day challenge  - developer.microsoft.com
 DevOps = Development +  Operation 
 
 setups the workflow and containerization setup 
+
+
+
+
+
+https://robocorps.com/
+
+- automation and robotics - Start contributing 
+- extinction available in VS code 
+- documentations is also pretty essay
+
+
+
+Google summer of code
+
+
+
+Start writing blogs 
+
+
+
+#Start working of following technology's:
+
+-  AWS
+- Docker
+- Kuberneetes
+- Jenkins 
