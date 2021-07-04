@@ -433,3 +433,135 @@ th{
 
 ​																							
 
+https://chrome.google.com/webstore/detail/dailydev-all-in-one-devel/jlmpjdjjbgclbocgajdjefcidcncaied/related
+
+
+
+https://embryology.med.unsw.edu.au/embryology/index.php/Frog_Development
+
+
+
+https://hacktoberfest.digitalocean.com/
+
+
+
+QXRESEARCH 
+
+
+
+open source contributions 
+
+
+
+open source projects for HTML CSS
+
+
+
+tweeter is really helpful for developer 
+
+
+
+Netlify.com
+
+
+
+
+
+
+
+```css
+/* ul {
+    list-style-type: square;
+    margin: 0;
+    padding: 50;
+    overflow: hidden;
+
+    background-color: #333333;////////
+
+  } */
+  
+  /* li {
+    float: left;
+  }      */
+
+
+
+/* 
+table {
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+    margin: 0 0 1em 0;
+    caption-side: top;
+  }
+  
+  caption, td, th {
+    padding: 0.3em;
+  }
+  
+  tbody {
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+  }
+  
+  tbody th, tfoot th {
+    border: 0;
+  }
+  
+  th.name {
+    width: 25%;
+  }
+  
+  th.location {
+    width: 20%;
+  }
+  
+  th.lasteruption {
+    width: 30%;
+  }
+  
+  th.eruptiontype {
+    width: 25%;
+  }
+  
+  tfoot {
+    text-align: center;
+    color: #555;
+    font-size: 0.8em;
+  } */
+
+```
+
+
+
+MLSA: Microsoft Student Ambassador 
+
+
+
+Docker contribution -
+
+https://jfrog.com/
+
+
+
+https://amanchopra-atg.medium.com/docker-a-beginners-guide-338f20f5f113
+
+
+
+MLH fellowship -mentoring program 
+
+https://fellowship.mlh.io/
+
+
+
+Reskill - Cloud Services 
+
+
+
+Microsoft 30 day challenge  - developer.microsoft.com 
+
+
+
+DevOps = Development +  Operation 
+
+setups the workflow and containerization setup 
